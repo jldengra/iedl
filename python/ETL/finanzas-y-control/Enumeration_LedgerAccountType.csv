@@ -1,0 +1,12 @@
+Name;Value;Description
+AccountOperations;0;Profit and loss
+AccountRevenue;1;Revenue
+AccountCost;2;Cost
+AccountStatus;3;Balance
+AccountActive;4;Asset
+AccountLiable;5;Liability
+Heading;6;Header
+HeadingEmpty;7;Empty header
+HeadingPage;8;Page header
+sum;9;Total
+AccountGroup;10;Group total
